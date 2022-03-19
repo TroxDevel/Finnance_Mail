@@ -5,8 +5,12 @@ Este é um aplicativo digital de gerenciamento de despesas financeiras universal
 
 Funcionalidades:
 
-- Acessar contas
-- 
+- Acessar boletos
+- Histórico de contas
+- Vencimento
+- Status
+- Obter código de barras
+- Imprimir boleto
 
 
 
