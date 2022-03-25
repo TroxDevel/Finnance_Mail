@@ -14,7 +14,7 @@ Funcionalidades:
 
 
 UML - Casos de Uso                                                                                                                                                        
-![image](https://user-images.githubusercontent.com/42909266/160187219-7f6b7722-2423-4b8a-b791-adab34f2b8c0.png)
+![image](https://user-images.githubusercontent.com/42909266/160187992-5e896826-4f9e-45f2-bb2d-b71c936a5992.png)
 
 
 
