@@ -13,11 +13,6 @@ Funcionalidades:
 - Imprimir boleto
 
 
-UML - Casos de Uso                                                                                                                                                        
-![image](https://user-images.githubusercontent.com/42909266/160187992-5e896826-4f9e-45f2-bb2d-b71c936a5992.png)
-
-
-
 
 **Planejamento**                                                                                                                                             Prototipagem - Por Proto.io                                                                                                                             
                                                                                                                                                               ![image](https://user-images.githubusercontent.com/42909266/163027554-8ced80e2-0ccb-46f9-8875-92eb7da83b04.png)                                               
@@ -25,7 +20,6 @@ UML - Casos de Uso
 SCRUM - Plano em Bitrix24                                                                                                                                                                                                                                                                                                    ![image](https://user-images.githubusercontent.com/42909266/163028216-128fbef7-f849-4aed-b380-02494614f8f3.png)
 
 
-*Prototipagem por Proto.io                                                                                                                                               
-*UML por UMLStar                                                                                                                                                                                                                                                                                                                                                                                                                                                        ![image](https://user-images.githubusercontent.com/42909266/163028392-bc5df7e3-5716-4e3c-b31e-b4540bc3df5a.png)                                             
+*UML - Por UMLStar                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ![image](https://user-images.githubusercontent.com/42909266/163028392-bc5df7e3-5716-4e3c-b31e-b4540bc3df5a.png)                                             
 
 *Projeto SCRUM por Bitrix24                                                                                                                                               
