@@ -22,7 +22,8 @@ UML - Casos de Uso
 **Planejamento**                                                                                                                                             Prototipagem - Por Proto.io                                                                                                                             
                                                                                                                                                               ![image](https://user-images.githubusercontent.com/42909266/163027554-8ced80e2-0ccb-46f9-8875-92eb7da83b04.png)                                               
 
-SCRUM - Plano em Bitrix24
+SCRUM - Plano em Bitrix24                                                                                                                                                                                                                                                                                                    ![image](https://user-images.githubusercontent.com/42909266/163028216-128fbef7-f849-4aed-b380-02494614f8f3.png)
+
 
 *Prototipagem por Proto.io                                                                                                                                               
 *UML por UMLStar                                                                                                                                                         
