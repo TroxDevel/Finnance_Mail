@@ -26,5 +26,6 @@ SCRUM - Plano em Bitrix24                                                       
 
 
 *Prototipagem por Proto.io                                                                                                                                               
-*UML por UMLStar                                                                                                                                                         
+*UML por UMLStar                                                                                                                                                                                                                                                                                                            ![image](https://user-images.githubusercontent.com/42909266/163028392-bc5df7e3-5716-4e3c-b31e-b4540bc3df5a.png)                                             
+
 *Projeto SCRUM por Bitrix24                                                                                                                                               
